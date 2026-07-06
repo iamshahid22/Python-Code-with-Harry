@@ -1,4 +1,3 @@
-# vel 10: Logic Building
 # Check whether a string is a palindrome.
 # Check whether two strings are anagrams.
 # Count the frequency of each character.

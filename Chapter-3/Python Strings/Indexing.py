@@ -31,6 +31,7 @@ print(a[10])  # This will raise an IndexError
 # Predict the output:
 # word = "Python"
 # print(word[2])
+# print(word[-3])
 word = "Python"
 print(word)
 print(word[2])
