@@ -1,5 +1,5 @@
-word = "python"
-rev = ""
-for i in word:
-    rev = i + rev
-print(rev)
+word = "shahiddinshaik"
+vowels = "aeiouAEIOU"
+for char in vowels:
+    word = word.replace(char, "*")
+print(word)
